@@ -1,0 +1,17 @@
+m=int(input('enter m:'))
+n=int(input('enter n:'))
+if m==n:
+    print('m and n are equal')
+elif m!=n:
+    print('m and n are not equal')
+elif m>n:
+    print('m is greater than n')
+elif m<n:
+    print('m is lesser than n')
+
+Output:
+enter m:
+7
+enter n:
+8
+m and n are not equal
